@@ -9,7 +9,7 @@ public class Main {
 		X x = new X("Hello",2);
 		x.printId();
 		
-		x = 2; /// hello from emacs
+		x = 2;
 	}
 
 }
